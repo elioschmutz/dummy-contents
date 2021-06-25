@@ -1,0 +1,536 @@
+Return-Path: <demo@4teamwork.ch>
+X-Original-To: 825609782@lab.onegovgever.ch
+Delivered-To: lab.onegovgever.ch-inbox@theta.4teamwork.ch
+Received: from mail-wj0-f181.google.com (mail-wj0-f181.google.com
+ [209.85.210.181])
+ by theta.4teamwork.ch (Postfix) with ESMTP id 681EB202603
+ for <825609782@lab.onegovgever.ch>; Wed, 11 Jan 2017 14:41:52 +0100 (CET)
+Received: by mail-wj0-f181.google.com with SMTP id ew7so88923051wjc.3
+ for <825609782@lab.onegovgever.ch>; Wed, 11 Jan 2017 05:41:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=4teamwork.ch; s=google;
+ h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+ :thread-index:content-language;
+ bh=dgUA4dmQab0m/WF2iXvt+RBI3GBgW9vkslgrtVHdJHA=;
+ b=EJawCUwLoS645xc00bx3927Z5OrMhNRKqGigng26J3bvHz8Wp3QI0XFc7y6RyjTPVM
+ cXJKZvxOYconc5vKI2AMS9gAP/DOIh7s4Cbd/2Vb3rLUkJKH4sjMg6L54EKrqBv7KVDZ
+ 5ik/hEXzDequ/tvikuAPNvMjvz8iDrcpa3nHU=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=1e100.net; s=20161025;
+ h=x-gm-message-state:from:to:references:in-reply-to:subject:date
+ :message-id:mime-version:thread-index:content-language;
+ bh=dgUA4dmQab0m/WF2iXvt+RBI3GBgW9vkslgrtVHdJHA=;
+ b=ab1kGsBQBX3d1U3x5Lx0ijdWMt2JDIEjaDTc2BegVNH5ZTk6q+g+XL7tkv/XddQ60x
+ xdht/7B8F9VrkrnYPToLlWGxK7VuebnlWKWLcmXR/ez0K9zqjnfvDVQqjiJS9oTAv/gB
+ okaWLUt/9tl0aLuD2jnD5ueVkLLj6YT1CrRGqSNr1P7b1EoijWIxNQMkrz9rwIQz4b4f
+ QhAGYQ2Dmx1q+iSB2oiJaN5maVh4xcOPFZGYfUHiZ1y7NEn/gIsrBBxrRMKXtNd0w4Dh
+ itrM5SMNmGuO3tmeH5z46N23GbUEmZGwoiknwxXc6DIv1aHyl1TtTdGupVtHWlH7exzC
+ NQfQ==
+X-Gm-Message-State: AIkVDXJqVe1UxalLWUsJu8If3a8yV7W0opAP4Kcu7u9OMI+CGvW6k/Xjij7kbp/cfRiyxiBM
+X-Received: by 10.194.60.205 with SMTP id j13mr3318994wjr.181.1484142111840;
+ Wed, 11 Jan 2017 05:41:51 -0800 (PST)
+Received: from DESKTOP5A28AVM ([46.140.112.106])
+ by smtp.gmail.com with ESMTPSA id ei2sm8574833wjd.47.2017.01.11.05.41.50
+ for <825609782@lab.onegovgever.ch>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+ Wed, 11 Jan 2017 05:41:51 -0800 (PST)
+From: "Hugo Boss" <demo@4teamwork.ch>
+To: <825609782@lab.onegovgever.ch>
+References: <30027860.20161230133132.586661b45ae695.24738246@mail133-132.atl131.mandrillapp.com>
+In-Reply-To: <30027860.20161230133132.586661b45ae695.24738246@mail133-132.atl131.mandrillapp.com>
+Subject: =?utf-8?Q?WG:_Letzte_Chance!_=E2=8F=B0_=F0=9F=8F=83__Sicher_?=
+ =?utf-8?Q?dir_deinen_Weihnachts-Rabatt?=
+Date: Wed, 11 Jan 2017 14:41:51 +0100
+Message-ID: <009301d26c10$775d3780$6617a680$@4teamwork.ch>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="----=_NextPart_000_0094_01D26C18.D923E970"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQJzlWUg2u2zjbGhCehsagW9hpW50Z/w9hoA
+Content-Language: de-ch
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0094_01D26C18.D923E970
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+=20
+
+Von: Jimdo [mailto:no-reply@jimdo.de]=20
+Gesendet: Freitag, 30. Dezember 2016 14:32
+An: hugo.boss@4teamwork.ch
+Betreff: Letzte Chance! =E2=8F=B0 =F0=9F=8F=83 Sicher dir deinen =
+Weihnachts-Rabatt
+
+=20
+
+Dein Gutschein-Code >> HO-HO-HO16 G=C3=BCltig f=C3=BCr 24 Stunden!=20
+
+
+
+
+  =
+<https://gallery.mailchimp.com/feafbc41d4b51fc15eadd4757/images/b527a858-=
+aacf-40bc-83d1-bb37ea8cf012.png>=20
+
+
+
+Noch 24 Stunden=20
+
+
+
+
+  =
+<https://gallery.mailchimp.com/feafbc41d4b51fc15eadd4757/images/680ea881-=
+7226-4ce6-b836-279dc71e3a7a.gif>=20
+
+
+
+30% Rabatt
+
+
+NICHT VERPASSEN: NOCH 24 STUNDEN RABATT-CHANCE AUF JIMDOPRO ODER =
+JIMDOBUSINESS=20
+
+Letzte Chance! Sicher dir schnell deinen Rabatt und starte ins neue Jahr =
+mit deiner eigenen Website und vielen Profi-Funktionen!=20
+
+
+
+Jetzt 30% sparen=20
+
+
+  =
+<https://gallery.mailchimp.com/feafbc41d4b51fc15eadd4757/images/25f8487c-=
+c890-46d4-a904-e4d1f26f141e.gif>=20
+
+
+
+DEIN CODE:=20
+
+
+HO-HO-HO16=20
+
+
+G=C3=BCltig bis 31.12.2016=20
+
+
+Jetzt 30% Rabatt sichern >>=20
+
+
+
+
+L=C3=B6se den Gutschein-Code ganz einfach beim Bezahlen ein.=20
+
+LIEFER-UND ZAHLUNGSBEDINGUNGEN: Der Gutschein-Code ist g=C3=BCltig bis =
+zum 31.12.2016 und kann nur f=C3=BCr Neubestellungen von JimdoPro und =
+JimdoBusiness eingel=C3=B6st werden. Eine Einl=C3=B6sung als Upgrade von =
+JimdoPro auf JimdoBusiness sowie bei Vertragsverl=C3=A4ngerung ist nicht =
+m=C3=B6glich.=20
+
+
+
+
+Upgrade =E2=80=A2 Hilfe =E2=80=A2  =
+<http://links.jimdo-mail.com/track/click/30027860/345678t.jimdo.com?p=3De=
+yJzIjoieTl0X1RKSUVyZjNIRlJBZTRjX2Q2ZjBmV2k4IiwidiI6MSwicCI6IntcInVcIjozMD=
+AyNzg2MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvMzQ1Njc4dC5qaW1kby5jb21=
+cXFwvXFxcL2xvZ2luXCIsXCJpZFwiOlwiOTAxMTM4OTMzYmY3NDQzYzk1MDc5ZjYwMDQ4YzEz=
+MDZcIixcInVybF9pZHNcIjpbXCI5MjQzODA0MmM2OTVkZjUzMDZlOGJmZGMwNTAwMzgzYjY2M=
+jkwMzc5XCJdfSJ9> Login=20
+
+
+  =
+<https://gallery.mailchimp.com/feafbc41d4b51fc15eadd4757/images/9afbcdc5-=
+434d-4576-98f0-4a121b8397a5.png>=20
+
+
+
+Du erh=C3=A4ltst diese E-Mail, weil du dir eine Jimdo-Webseite angelegt =
+hast.=20
+
+Jimdo GmbH | Stresemannstrasse 375 | 22761 Hamburg=20
+Gesch=C3=A4ftsf=C3=BChrer: F. Detzner | M. Henze | C. Springub=20
+Registergericht: Amtsgericht Hamburg, HRB 101417 | Ust. IdNr.: =
+DE814864138=20
+
+Du m=C3=B6chtest keinen Newsletter mehr von Jimdo bekommen?
+Hier kannst du dich abmelden oder sende "Abmelden" an abmelden@jimdo.de =
+<mailto:abmelden@jimdo.de> =20
+
+  =
+<https://t.jimdo-platform.net/emaillogo?eyJlbWFpbCI9PiJodWdvLmJvc3NANHRlY=
+W13b3JrLmNoIiwgInRlbXBsYXRlIj0-ImRpc2NvdW50LWNocmlzdG1hcy1yZW1pbmRlcjI0LT=
+IwMTYtMTItZGUiLCAidmVyc2lvbiI9PiIxLjAifQ>   =
+<http://links.jimdo-mail.com/track/open.php?u=3D30027860&id=3D901138933bf=
+7443c95079f60048c1306>=20
+
+
+------=_NextPart_000_0094_01D26C18.D923E970
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered medium)"><!--[if =
+!mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><title>WEIHNACHTS-RABATT</title><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI Emoji";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+h1
+	{mso-style-priority:9;
+	mso-style-link:"=C3=9Cberschrift 1 Zchn";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:24.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.berschrift1Zchn
+	{mso-style-name:"=C3=9Cberschrift 1 Zchn";
+	mso-style-priority:9;
+	mso-style-link:"=C3=9Cberschrift 1";
+	font-family:"Calibri Light",sans-serif;
+	color:#2F5496;}
+span.E-MailFormatvorlage21
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body bgcolor=3Dwhite =
+lang=3DDE-CH link=3Dblue vlink=3Dpurple><div class=3DWordSection1><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><a =
+name=3D"_MailEndCompose"><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'><o:p>&nbsp;</o:p></span></a></p><span =
+style=3D'mso-bookmark:_MailEndCompose'></span><div><div =
+style=3D'border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm'><p class=3DMsoNormal><b><span lang=3DDE =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Von:</span></=
+b><span lang=3DDE =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> Jimdo =
+[mailto:no-reply@jimdo.de] <br><b>Gesendet:</b> Freitag, 30. Dezember =
+2016 14:32<br><b>An:</b> hugo.boss@4teamwork.ch<br><b>Betreff:</b> =
+Letzte Chance! </span><span lang=3DDE =
+style=3D'font-size:11.0pt;font-family:"Segoe UI =
+Emoji",sans-serif'>=E2=8F=B0</span><span lang=3DDE =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> =
+</span><span lang=3DDE style=3D'font-size:11.0pt;font-family:"Segoe UI =
+Emoji",sans-serif'>&#127939;</span><span lang=3DDE =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> Sicher dir =
+deinen Weihnachts-Rabatt<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal =
+style=3D'mso-line-height-alt:.75pt'><span =
+style=3D'font-size:1.0pt;font-family:"Helvetica",sans-serif;color:#FEFEFE=
+'>Dein Gutschein-Code &gt;&gt; HO-HO-HO16 G=C3=BCltig f=C3=BCr 24 =
+Stunden! <o:p></o:p></span></p></div><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:=
+100%'><tr><td width=3D"100%" valign=3Dtop =
+style=3D'width:100.0%;background:#118A70;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;background-po=
+sition-x:50%;background-position-y:0%'><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D600 =
+style=3D'width:450.0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust=
+:100%;background-position-x:50%;background-position-y:0%'><tr><td =
+valign=3Dtop style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" =
+style=3D'width:100.0%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:=
+100%'><tr><td valign=3Dtop style=3D'padding:18.75pt 11.25pt 0cm =
+11.25pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'><img width=3D160 style=3D'width:1.6666in' id=3D"_x0000_i1025" =
+src=3D"https://gallery.mailchimp.com/feafbc41d4b51fc15eadd4757/images/b52=
+7a858-aacf-40bc-83d1-bb37ea8cf012.png" =
+alt=3DJimdo><o:p></o:p></span></p></td></tr><tr><td =
+style=3D'padding:15.0pt 60.0pt 60.0pt =
+60.0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D4 cellpadding=3D0 =
+align=3Dleft =
+style=3D'margin-left:-1.15pt;margin-right:-1.15pt;-webkit-text-size-adjus=
+t:100%;-ms-text-size-adjust:100%'><tr style=3D'height:75.0pt'><td =
+width=3D300 style=3D'width:225.0pt;padding:0cm 0cm 0cm =
+0cm;height:75.0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%=
+;overflow:hidden;z-index:1'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right;text-indent:26.25pt'><b><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:white;=
+text-transform:uppercase;background:#F5695D'>Noch 24 =
+Stunden</span></b><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'> <o:p></o:p></span></p></td></tr></table><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%'><tr><td style=3D'padding:0cm 0cm =
+0cm 0cm'><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;background:white'><tr><td style=3D'padding:30.0pt =
+30.0pt 30.0pt 30.0pt'><div align=3Dcenter><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%'><tr><td style=3D'padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'><img id=3D"_x0000_i1026" =
+src=3D"https://gallery.mailchimp.com/feafbc41d4b51fc15eadd4757/images/680=
+ea881-7226-4ce6-b836-279dc71e3a7a.gif"><o:p></o:p></span></p></td></tr><t=
+r><td style=3D'padding:15.0pt 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><h1 =
+align=3Dcenter =
+style=3D'margin:0cm;margin-bottom:.0001pt;text-align:center;line-height:6=
+0.0pt'><span =
+style=3D'font-size:60.0pt;font-family:"Helvetica",sans-serif;color:#F5695=
+D'>30% Rabatt<o:p></o:p></span></h1></td></tr><tr><td =
+style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+align=3Dcenter style=3D'text-align:center'><strong><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#696C76'>NICHT =
+VERPASSEN: NOCH 24 STUNDEN RABATT-CHANCE AUF JIMDOPRO ODER =
+JIMDOBUSINESS</span></strong><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#696C76'> =
+<o:p></o:p></span></p><p align=3Dcenter =
+style=3D'text-align:center'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#696C76'>Letzte =
+Chance! Sicher dir schnell deinen Rabatt und starte ins neue Jahr mit =
+deiner eigenen Website und vielen Profi-Funktionen! =
+<o:p></o:p></span></p></td></tr><tr><td style=3D'padding:18.75pt 18.75pt =
+37.5pt =
+18.75pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 =
+style=3D'-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><tr><td=
+ style=3D'background:#FFB619;padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'><a =
+href=3D"http://links.jimdo-mail.com/track/click/30027860/de.jimdo.com?p=3D=
+eyJzIjoiWWIxSlIzbjhtNGpvZUlFWk0tVEJyMks5VGhNIiwidiI6MSwicCI6IntcInVcIjozM=
+DAyNzg2MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvZGUuamltZG8uY29tXFxcL3=
+ByZWlzZVxcXC8_dXRtX3NvdXJjZT1Qcm9tbyUyME5ld3NsZXR0ZXImdXRtX2NhbXBhaWduPWR=
+pc2NvdW50X2NocmlzdG1hc18yMDE2XzEyX2RlJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRl=
+bnQ9MjRoX3JlbWluZGVyXCIsXCJpZFwiOlwiOTAxMTM4OTMzYmY3NDQzYzk1MDc5ZjYwMDQ4Y=
+zEzMDZcIixcInVybF9pZHNcIjpbXCI0Njg2MzRhNTljZWViYmU4ZmQ5ZDdkODkyNzk0MWM4Zj=
+ZjZmQwNWJmXCJdfSJ9" target=3D"_blank"><b><span =
+style=3D'font-size:12.0pt;font-family:"Arial",sans-serif;color:white;text=
+-transform:uppercase;border:solid #FFB619 =
+1.0pt;padding:11.0pt;text-decoration:none'>Jetzt 30% sparen =
+</span></b></a><o:p></o:p></span></p></td></tr></table></div></td></tr><t=
+r><td style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'><img border=3D0 id=3D"_x0000_i1027" =
+src=3D"https://gallery.mailchimp.com/feafbc41d4b51fc15eadd4757/images/25f=
+8487c-c890-46d4-a904-e4d1f26f141e.gif"><o:p></o:p></span></p></td></tr><t=
+r><td style=3D'background:#F5695D;padding:7.5pt 7.5pt 7.5pt =
+7.5pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+align=3Dleft width=3D"50%" =
+style=3D'width:50.0%;margin-left:-1.15pt;margin-right:-1.15pt;-webkit-tex=
+t-size-adjust:100%;-ms-text-size-adjust:100%'><tr><td =
+style=3D'padding:0cm 7.5pt 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+class=3DMsoNormal align=3Dright style=3D'text-align:right'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:white'>DEIN CODE: =
+<o:p></o:p></span></p></td></tr></table><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 align=3Dright width=3D"50%" =
+style=3D'width:50.0%;margin-left:-1.15pt;margin-right:-1.15pt'><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><p class=3DMsoNormal><b><span =
+style=3D'font-family:"Helvetica",sans-serif;color:white'>HO-HO-HO16 =
+<o:p></o:p></span></b></p></td></tr></table></td></tr><tr><td =
+style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+align=3Dcenter =
+style=3D'margin-bottom:13.5pt;text-align:center'><strong><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'>G=C3=BCltig bis 31.12.2016 </span></strong><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'><o:p></o:p></span></p></td></tr><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'><a =
+href=3D"http://links.jimdo-mail.com/track/click/30027860/de.jimdo.com?p=3D=
+eyJzIjoiWWIxSlIzbjhtNGpvZUlFWk0tVEJyMks5VGhNIiwidiI6MSwicCI6IntcInVcIjozM=
+DAyNzg2MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvZGUuamltZG8uY29tXFxcL3=
+ByZWlzZVxcXC8_dXRtX3NvdXJjZT1Qcm9tbyUyME5ld3NsZXR0ZXImdXRtX2NhbXBhaWduPWR=
+pc2NvdW50X2NocmlzdG1hc18yMDE2XzEyX2RlJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRl=
+bnQ9MjRoX3JlbWluZGVyXCIsXCJpZFwiOlwiOTAxMTM4OTMzYmY3NDQzYzk1MDc5ZjYwMDQ4Y=
+zEzMDZcIixcInVybF9pZHNcIjpbXCI0Njg2MzRhNTljZWViYmU4ZmQ5ZDdkODkyNzk0MWM4Zj=
+ZjZmQwNWJmXCJdfSJ9"><b><span =
+style=3D'color:#F5695D;text-transform:uppercase;text-decoration:none'>Jet=
+zt 30% Rabatt sichern &gt;&gt;</span></b></a> =
+<o:p></o:p></span></p></td></tr></table></div></td></tr></table></td></tr=
+></table></div></td></tr></table></td></tr></table></div></td></tr><tr><t=
+d style=3D'background:#5CBF98;padding:18.75pt 37.5pt 18.75pt =
+37.5pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" =
+style=3D'width:100.0%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:=
+100%'><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D600 =
+style=3D'width:450.0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust=
+:100%'><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p><span =
+style=3D'font-size:11.5pt;font-family:"Helvetica",sans-serif;color:white'=
+>L=C3=B6se den Gutschein-Code ganz einfach beim Bezahlen ein. =
+<o:p></o:p></span></p><p><span =
+style=3D'font-size:11.5pt;font-family:"Helvetica",sans-serif;color:white'=
+>LIEFER-UND ZAHLUNGSBEDINGUNGEN: Der Gutschein-Code ist g=C3=BCltig bis =
+zum 31.12.2016 und kann nur f=C3=BCr Neubestellungen von JimdoPro und =
+JimdoBusiness eingel=C3=B6st werden. Eine Einl=C3=B6sung als Upgrade von =
+JimdoPro auf JimdoBusiness sowie bei Vertragsverl=C3=A4ngerung ist nicht =
+m=C3=B6glich. =
+<o:p></o:p></span></p></td></tr></table></div></td></tr></table></td></tr=
+><tr><td width=3D"100%" valign=3Dtop =
+style=3D'width:100.0%;background:#E6E7F0;padding:0cm 11.25pt 30.0pt =
+11.25pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D600 =
+style=3D'width:450.0pt;-webkit-text-size-adjust:100%;-ms-text-size-adjust=
+:100%'><tr><td valign=3Dtop style=3D'padding:0cm 0cm 15.0pt =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:=
+100%'><tr><td style=3D'padding:15.0pt 0cm 15.0pt =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#4E5056'><a =
+href=3D"http://links.jimdo-mail.com/track/click/30027860/de.jimdo.com?p=3D=
+eyJzIjoiWWIxSlIzbjhtNGpvZUlFWk0tVEJyMks5VGhNIiwidiI6MSwicCI6IntcInVcIjozM=
+DAyNzg2MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvZGUuamltZG8uY29tXFxcL3=
+ByZWlzZVxcXC8_dXRtX3NvdXJjZT1Qcm9tbyUyME5ld3NsZXR0ZXImdXRtX2NhbXBhaWduPWR=
+pc2NvdW50X2NocmlzdG1hc18yMDE2XzEyX2RlJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NvbnRl=
+bnQ9MjRoX3JlbWluZGVyXCIsXCJpZFwiOlwiOTAxMTM4OTMzYmY3NDQzYzk1MDc5ZjYwMDQ4Y=
+zEzMDZcIixcInVybF9pZHNcIjpbXCI0Njg2MzRhNTljZWViYmU4ZmQ5ZDdkODkyNzk0MWM4Zj=
+ZjZmQwNWJmXCJdfSJ9" target=3D"_blank"><b><span =
+style=3D'color:#4E5056'>Upgrade</span></b></a> =E2=80=A2 <a =
+href=3D"http://links.jimdo-mail.com/track/click/30027860/hilfe.jimdo.com?=
+p=3DeyJzIjoiX1ZUZFBzdmVkVnpGbTE0Z3hoa2JnbF9CamZrIiwidiI6MSwicCI6IntcInVcI=
+jozMDAyNzg2MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvaGlsZmUuamltZG8uY2=
+9tXFxcLz91dG1fc291cmNlPVByb21vJTIwTmV3c2xldHRlciZ1dG1fY2FtcGFpZ249ZGlzY29=
+1bnRfY2hyaXN0bWFzXzIwMTZfMTJfZGUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD0y=
+NGhfcmVtaW5kZXJcIixcImlkXCI6XCI5MDExMzg5MzNiZjc0NDNjOTUwNzlmNjAwNDhjMTMwN=
+lwiLFwidXJsX2lkc1wiOltcIjZlYmQ1MjE5MDJlOWYxNjkyZjViY2E5MzM3ZWZiZTMxYWIxZj=
+RlODlcIl19In0" target=3D"_blank"><b><span =
+style=3D'color:#4E5056'>Hilfe</span></b></a> =E2=80=A2 <a =
+href=3D"http://links.jimdo-mail.com/track/click/30027860/345678t.jimdo.co=
+m?p=3DeyJzIjoieTl0X1RKSUVyZjNIRlJBZTRjX2Q2ZjBmV2k4IiwidiI6MSwicCI6IntcInV=
+cIjozMDAyNzg2MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvMzQ1Njc4dC5qaW1k=
+by5jb21cXFwvXFxcL2xvZ2luXCIsXCJpZFwiOlwiOTAxMTM4OTMzYmY3NDQzYzk1MDc5ZjYwM=
+DQ4YzEzMDZcIixcInVybF9pZHNcIjpbXCI5MjQzODA0MmM2OTVkZjUzMDZlOGJmZGMwNTAwMz=
+gzYjY2MjkwMzc5XCJdfSJ9" target=3D"_blank"><b><span =
+style=3D'color:#4E5056'>Login</span></b></a> =
+<o:p></o:p></span></p></td></tr></table></div></td></tr><tr><td =
+valign=3Dtop style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:13.5pt;font-family:"Helvetica",sans-serif;color:#696C7=
+6'><img border=3D0 width=3D100 style=3D'width:1.0416in' =
+id=3D"_x0000_i1028" =
+src=3D"https://gallery.mailchimp.com/feafbc41d4b51fc15eadd4757/images/9af=
+bcdc5-434d-4576-98f0-4a121b8397a5.png"><o:p></o:p></span></p></td></tr><t=
+r><td style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" =
+style=3D'width:100.0%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:=
+100%'><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%'><p =
+align=3Dcenter =
+style=3D'margin:0cm;margin-bottom:.0001pt;text-align:center'><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#696C76'>Du =
+erh=C3=A4ltst diese E-Mail, weil du dir eine Jimdo-Webseite angelegt =
+hast.</span><span =
+style=3D'font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#ABB1C=
+2'> <o:p></o:p></span></p><p align=3Dcenter =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:12.0pt;mar=
+gin-left:0cm;text-align:center'><span =
+style=3D'font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#ABB1C=
+2'>Jimdo GmbH | Stresemannstrasse 375 | 22761 Hamburg =
+<br>Gesch=C3=A4ftsf=C3=BChrer: F. Detzner | M. Henze | C.&nbsp;Springub =
+<br>Registergericht: Amtsgericht Hamburg, HRB 101417 | =
+Ust.&nbsp;IdNr.:&nbsp;DE814864138 <o:p></o:p></span></p><p =
+align=3Dcenter =
+style=3D'margin:0cm;margin-bottom:.0001pt;text-align:center'><span =
+style=3D'font-size:10.5pt;font-family:"Helvetica",sans-serif;color:#ABB1C=
+2'>Du m=C3=B6chtest keinen Newsletter mehr von Jimdo bekommen?<br><a =
+href=3D"*|unsubscribe|*" target=3D"_blank"><span =
+style=3D'color:#696C76'>Hier kannst du dich abmelden</span></a> oder =
+sende &quot;Abmelden&quot; an <a =
+href=3D"mailto:abmelden@jimdo.de">abmelden@jimdo.de</a> =
+<o:p></o:p></span></p></td></tr></table></td></tr></table></div></td></tr=
+></table><p class=3DMsoNormal><img border=3D0 id=3D"_x0000_i1029" =
+src=3D"https://t.jimdo-platform.net/emaillogo?eyJlbWFpbCI9PiJodWdvLmJvc3N=
+ANHRlYW13b3JrLmNoIiwgInRlbXBsYXRlIj0-ImRpc2NvdW50LWNocmlzdG1hcy1yZW1pbmRl=
+cjI0LTIwMTYtMTItZGUiLCAidmVyc2lvbiI9PiIxLjAifQ"><img border=3D0 =
+width=3D1 height=3D1 style=3D'width:.0104in;height:.0104in' =
+id=3D"_x0000_i1030" =
+src=3D"http://links.jimdo-mail.com/track/open.php?u=3D30027860&amp;id=3D9=
+01138933bf7443c95079f60048c1306"><o:p></o:p></p></div></body></html>
+------=_NextPart_000_0094_01D26C18.D923E970--
+
